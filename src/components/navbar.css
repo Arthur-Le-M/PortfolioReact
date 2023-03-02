@@ -17,4 +17,11 @@ ul li a{
     font-weight: 500;
     letter-spacing: 1px;
     color: black;
+    font-weight: 700;
+}
+
+ul li a:hover{
+    /* animation le bouton se lève un peu */
+    position: relative;
+    color: #0b9a39;
 }

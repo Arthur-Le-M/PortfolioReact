@@ -3,4 +3,10 @@ header{
     align-items: center;
     height: 10%;
     width: 90%;
+    justify-content: space-between;
+}
+
+header img{
+    width: 75px;
+    height: 75px;
 }
